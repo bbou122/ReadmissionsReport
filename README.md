@@ -5,7 +5,7 @@ readmitted within 30 days of discharge, why, and what a hospital could realistic
 do about it — built end to end (data generation → cleaning → statistical modeling →
 visualization → executive reporting) as a portfolio piece.
 
-**[Read the full report ->](./report/index.html)** (open in any browser)
+**[Read the full report ->](https://bbou122.github.io/ReadmissionsReport/)** (open in any browser)
 
 ## The business problem
 
