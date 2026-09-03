@@ -1,8 +1,0 @@
-Loaded raw file: 7015 rows, 20 columns
-Removed 15 duplicate patient_id rows
-Flagged 8 negative length-of-stay values as missing
-Imputed 210 missing 'num_medications' values with median (12.0)
-Imputed 8 missing 'length_of_stay_days' values with median (4.0)
-Passed sanity checks: age bounds, binary target
-Final analysis-ready dataset: 7000 rows, 23 columns
-30-day readmission rate: 15.3%
